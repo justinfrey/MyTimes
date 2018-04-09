@@ -1,0 +1,18 @@
+.header {
+  display: flex;
+  font-family: veranda;
+  font-size: 14px;
+  font-weight: bold;
+  color: MediumAquamarine;
+}
+
+.logo {
+  font-family: veranda;
+  font-size: 14px;
+  font-weight: bold;
+  color: MediumAquamarine;
+}
+
+.nav {
+  display: inline-block;
+}
